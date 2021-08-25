@@ -15,6 +15,23 @@ I am pursuing a Fullstack Developer at [Wipro Limited](https://www.wipro.com/). 
  <a href = "mailto: gaonkar.adi@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/gaonkar-adi">
+    <img src="https://github-readme-stats.vercel.app/api?username=gaonkar-adi&show_icons=true" alt="Suriyaa's GitHub Stats">
+  </a>
+  <br><br>
+    <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/years/gaonkar-adi?style=flat-square&color=blue&logo=github">
+  </a>
+  <a href="https://github.com/gaonkar-adi?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/gaonkar-adi?style=flat-square&color=blue&logo=github">
+  </a>
+  <a href="https://gist.github.com/gaonkar-adi">
+    <img src="https://badges.pufler.dev/gists/gaonkar-adi?style=flat-square&color=blue&logo=github">
+  </a>
+</p>
+
+
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***New Updates Coming Soon ....***
 
