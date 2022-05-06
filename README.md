@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Age-29-blue" />
   <img src="https://img.shields.io/badge/Focus-Front%20End,%20Opensource-brightgreen" />
   <img src="https://img.shields.io/badge/Location-London-success" />
-  <img src="https://img.shields.io/badge/Languages-English,%20Hindi,%20Kannada,%20Konkani,%20Bengali-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-English,%20Hindi,%20Kannada,%20Konkani,%20Marathi,%20Bengali-brightgreen" />
 </p>
 
 <!-- I am a Fullstack Developer at [Wipro Limited](https://www.wipro.com/). Additionally, I am also pursuing my Post Graduation in Fullstack Development.
